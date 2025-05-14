@@ -14,5 +14,5 @@ Zippy is a smart virtual assistant built using *React.js, powered by the **Gemin
 
 ## Future Enhancements
 
->Add dog voice output 
->Save chat memory and session history
+-Add dog voice output 
+-Save chat memory and session history
