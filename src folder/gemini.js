@@ -1,4 +1,4 @@
-const api_key = "AIzaSyCg_Z2MdgF4L0oNJIUASDnpg1zb4VUJBmo";
+const api_key = "_YOUR_API_KEY_";
 
 // To run this code you need to install the following dependencies:
 // npm install @google/genai mime
